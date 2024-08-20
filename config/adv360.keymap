@@ -78,7 +78,7 @@
             >;
         };
 
-        layer_DATA_ENTRY {
+        layer_data_entry {
             bindings = <
  &trans        &trans        &trans        &trans        &trans        &trans            &trans                                                  &trans        &trans        &trans        &trans        &trans        &trans  &trans
  &trans        &trans        &trans        &trans        &trans        &trans             &to 1                                                  &trans        &trans        &trans        &trans        &trans        &trans  &trans
